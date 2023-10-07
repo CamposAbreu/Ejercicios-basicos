@@ -8,6 +8,7 @@ print(f"Tu porc es: {round(n1*b , 2)}")
 
 """Se desea calcular cualquier porcentaje de interés para un valor de 
 préstamo"""
+
 prestamo = float(input("ingrese el monto de la cantidad: "))
 
 porc = float(input("ingrese el porcentaje de interes: "))
