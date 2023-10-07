@@ -16,3 +16,4 @@ t = t*60/1
 
 d = float(v*t)
 print("La distancia recorrida es: ", d)
+print("++++++++++++++++++++++++++++++++")
