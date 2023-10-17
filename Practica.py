@@ -1,4 +1,6 @@
-print("modulo")
-n = 50
-d = 3
-print((n / d), n % d)
+num = int(input("ingrese un numero a multiplicar: "))
+for i in range(1, 11):
+  print(f"{num} x {i} = {num * i}")
+  
+ 
+  
